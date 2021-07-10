@@ -1,0 +1,63 @@
+{
+  "modaljavasetup": {	
+	"setup": "Java установщик",
+	"description": "Для оптимальной работы мы предлагаем позволить нам позаботиться о Java за вас. Управляйте Java вручную только в том случае, если вы знаете, что делаете, это может привести к тому, что DaofsLauncher не будет работать!",
+	"automaticsetup": "Автоматическая Настройка",
+	"manualsetup": "Ручная Настройка",
+	"automatic": "Автоматическая",
+	"manual": "Ручная",
+	"setup": "Настройка",
+	"manualdescription": "Выберите исполняемый файл Java. Мы настоятельно рекомендуем Java8, поскольку любая другая версия не будет полностью работать с модифицированным Minecraft.",
+	"selectjava": "Выберите исполняемый файл Java",
+	"backtoautomatic": "Вернуться к автоматической настройке",
+	"continuecustomjava": "Продолжить",
+	"downloadingjava": "Загрузка Java",
+	"extracting": "Извлечение {namber}",
+	"javaisready": "Java готова!"
+  },
+  "login": {
+	"signmojangaccount": "Войдите в свою учетную запись Mojang",
+	"password": "Пароль",
+	"signin": "Войти",
+	"singinmicrosoft": "Войти через Microsoft",
+	"createaccount": "ЗАВЕСТИ АККАУНТ",
+	"forgotpassword": "ЗАБЫЛ ПАРОЛЬ"
+  },
+  "error": {
+	  "error": "Ошибка",
+	  "sssorry": "МЫ ИЗВИНЯЯЯЯЯЯЯЕМСЯ. Но DaofsLauncher налетел на лианы и взорвался..",
+	  "restart": "Перезагрузка DaofsLauncher",
+	  "failedtovalidate": "Не удалось проверить",
+	  "nouserpassword": "Имя пользователя или пароль не указаны.",
+	  "invaliduserpasswrod": "Неправильное имя пользователя или пароль.",
+	  "dontbuygame": "Похоже, вы не купили игру.",
+	  "refmicrotoken": "Ошибка при обновлении токена Microsoft.",
+	  "securetokservic": "Ошибка при получении токена из службы Xbox Secure Token Service.",
+	  "loggingstudio": "Произошла ошибка при входе в {studio}.",
+	  "couldnotskin": "Не удалось получить скин",
+	  "networkerror": "Ошибка сети",
+	  "erroroccurredmineprofile": "Ошибка при загрузке профиля Minecraft.",
+	  "contentcorruped": "Контент поврежден",
+	  "corruptedfile": "Поврежденный файл"
+  },
+  "welcome": {
+	  "welcome": "добро пожаловать в DaofsLauncher!",
+	  "description": "Daofslauncher полностью бесплатный и открытый лаунчер. Он предназначен для игры Dark Of Sword. Мы не собераемся зарабатывать на вас. Игра сделана на исходном коде Minecraft."
+  },
+  "changelogs": {
+	  "whatsnew": "Что нового в",
+	  "bugfixes": "Исправление ошибок",
+	  "joincommumity": "Присоединяйтесь к нашему сообществу"
+  },
+  "instancedeleteconfirmation": {
+	  "title": "Подтвердите Удаление экземпляра"
+  },
+  "instance": {
+	  "play": "ИГРАТЬ",
+	  "queue": "В Очереди",
+	  "manage": "Менеджер",
+	  "openfolder": "Открыть папку",
+	  "exportpack": "Экспортный пакет",
+	  "delete": "Удалить"
+  }
+}

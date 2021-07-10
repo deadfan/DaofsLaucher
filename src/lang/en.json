@@ -1,0 +1,63 @@
+{
+  "modaljavasetup": {	
+	"setup": "Java Setup",
+	"description": "For an optimal experience, we suggest letting us take care of java for you. Only manually manage java if you know what you&apos;re doing, it may result in DaofsLauncher not working!",
+	"automaticsetup": "Аutomatic Setup",
+	"manualsetup": "Manual Setup",
+	"automatic": "Automatic",
+	"manual": "Manual",
+	"setup": "Setup",
+	"manualdescription": "Select your java executable. We strongly suggest Java8, since any other version won&apos;t completely work with modded Minecraft",
+	"selectjava": "Select your java executable",
+	"backtoautomatic": "Go to Automatic Setup instead",
+	"continuecustomjava": "Continue with custom java",
+	"downloadingjava": "Downloading Java",
+	"extracting": "Extracting {namber}",
+	"javaisready": "Java is ready!"
+  },
+  "login": {
+	"signmojangaccount": "Sign in with your Mojang Account",
+	"password": "Password",
+	"signin": "Sign In",
+	"singinmicrosoft": "Sign in with Microsoft",
+	"createaccount": "CREATE AN ACCOUNT",
+	"forgotpassword": "FORGOT PASSWORD"
+  },
+  "error": {
+	  "error": "Error",
+	  "sssorry": "WE’RE SSSSSSORRY. DaofsLauncher ran into a creeper and blew up..",
+	  "restart": "Restart DaofsLauncher",
+	  "failedtovalidate": "Failed to validate",
+	  "nouserpassword": "No username or password provided.",
+	  "invaliduserpasswrod": "Invalid username or password.",
+	  "dontbuygame": "It looks like you didn't buy the game.",
+	  "refmicrotoken": "Error occurred while refreshing Microsoft token.",
+	  "securetokservic": "Error occurred while fetching token from Xbox Secure Token Service.",
+	  "loggingstudio": "Error occurred while logging in {studio}.",
+	  "couldnotskin": "Could not fetch skin",
+	  "networkerror": "Network Error",
+	  "erroroccurredmineprofile": "Error occurred while fetching Minecraft profile.",
+	  "contentcorruped": "Content corrupted",
+	  "corruptedfile": "Corrupted file"
+  },
+  "welcome": {
+	  "welcome": "welcome to DaofsLauncher!",
+	  "description": "Daofslauncher is completely free and open-source launcher. It is designed for the dark of sword game. We are not going to make money for you. The game is made on the source code of Minecraft."
+  },
+  "changelogs": {
+	  "whatsnew": "What's new in",
+	  "bugfixes": "Bug Fixes",
+	  "joincommumity": "Join Our Community"
+  },
+  "instancedeleteconfirmation": {
+	  "title": "Confirm Instance Deletion"
+  },
+  "instance": {
+	  "play": "PLAY",
+	  "queue": "In Queue",
+	  "manage": "Manage",
+	  "openfolder": "Open Folder",
+	  "exportpack": "Export Pack",
+	  "delete": "Delete"
+  }
+}
