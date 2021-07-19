@@ -6,7 +6,7 @@ Custom launcher minecraft and custom minecraft version
 Install the dependencies and devDependencies.
 
 ```sh
-$ cd GDLauncher
+$ cd DaofsLaucher
 $ npm i
 ```
 
